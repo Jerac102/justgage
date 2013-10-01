@@ -1,0 +1,7 @@
+Hi
+
+  is there a way to create gauge for dinamically created element, e. g. "id: element", because I have multiple
+  elements with the same id and gauge is created only for the first element. For example, Highcharts have done 
+  that this way: chart: {	renderTo: element } and it is working perfectly but it doesn't have donut gauge.
+
+Thanks
